@@ -1,0 +1,92 @@
+\begin{thebibliography}{10}
+
+\bibitem{iot2010}
+L.~Atzori, A.~Iera, and G.~Morabito.
+\newblock The internet of things: A survey.
+\newblock {\em Computer Network}, pages 2787--2805, Oct. 2010.
+
+\bibitem{srinidhi2018network}
+NN~Srinidhi, SM~Dilip Kumar, and KR~Venugopal.
+\newblock Network optimizations in the internet of things: A review.
+\newblock {\em Engineering Science and Technology, an International Journal},
+  2018.
+
+\bibitem{iot2013}
+B.~Guo, D.~Zhang, Z.~Wang, and X.~Zhou Z.~Yu.
+\newblock Opportunistic iot: Exploring the harmonious interaction between human
+  and the internet of things.
+\newblock {\em Journal of Network and Computer Applications}, pages 1531--1539,
+  2013.
+
+\bibitem{2006opnet}
+L.~Pelusi, A.~Passarella, and M.~Conti.
+\newblock Opportunistic networking: data forwarding in disconnected mobile ad
+  hoc networks.
+\newblock {\em IEEE Communications Magazine, vol. 44, Issue 11}, pages
+  134--141, Nov. 2006.
+
+\bibitem{2000epi}
+A.Vahdat and D.Becker.
+\newblock Epidemic routing for partially connected ad hocnetworks.
+\newblock {\em TechnicalReportCS-2000-06}, 2000.
+
+\bibitem{2004hbpr}
+S.~K. Dhurandher, Deepak~Kr. Sharma, I.~Woungang, and S.~Bhati.
+\newblock Hbpr: History based prediction for routing in infrastructure-less
+  opportunistic networks.
+\newblock {\em IEEE AINA 2013, Barcelona, Spain}, March 25-28, 2013.
+
+\bibitem{2003pric}
+A.~Lindgren, A.~Doria, and O.~Schelen.
+\newblock Probabilistic routing in intermittently connected networks.
+\newblock {\em ACM SIGMOBILE, Mobile Computing and Communications Review, vol.
+  7, Issue 3}, pages 19--20, July 2003.
+
+\bibitem{2015pbcffon}
+S.~K. Dhurandher, S.~J. Borah, M.~S. Obaidat, D.~K. Sharma, and B.~Baruah
+  S.~Gupta.
+\newblock Probability-based controlled flooding in opportunistic networks.
+\newblock {\em Proc. of Intl. Conference on Wireless Information Networks and
+  System (WINSYS), Colmar, France}, pages 3--8, July 20-22, 2015.
+
+\bibitem{hibop}
+C.~Boldrini, M.~Conti, I.~Iacopini, and A.~Passarella.
+\newblock Hibop: A history based routing protocol for opportunistic networks.
+\newblock {\em Proc. of IEEE Intl. Symposium on World of Wireless, Mobile and
+  Multimedia Networks (WOWMOM 2007)}, pages 1--12, 2007.
+
+\bibitem{2016edr}
+S.~K. Dhurandher, S.~Borah, I.~Woungang, D.~K. Sharma, K.~Arora, and
+  D.~Agarwal.
+\newblock Edr: An encounter and distance based routing protocol for
+  opportunistic networks.
+\newblock {\em Proc. of IEEE AINA 2016, Crans-Montana, Switzerland}, pages
+  297--302, March 23-25, 2016.
+
+\bibitem{2016dmcpm}
+I~k~Jeon and K~w.~Lee.
+\newblock A dynamic markov chain prediction model for delay-tolerant networks.
+\newblock {\em International Journal of Distributed Sensor Networks, Vol 12},
+  pages 2--7, Sept. 2016.
+
+\bibitem{2016mlbp}
+D.~K. Sharma, S.~K. Dhurandher, I.~Woungang, R.~K. Srivastava, A.~Mohananey,
+  and Joel~J.P.C. Rodrigues.
+\newblock A machine learning based protocol for effcient routing in
+  opportunistic networks.
+\newblock {\em IEEESystemsJournal, DOI: 10.1109/JSYST.2016.2630923}, 2016.
+
+\bibitem{keranen2008opportunistic}
+Ari Keranen.
+\newblock Opportunistic network environment simulator.
+\newblock {\em Special Assignment report, Helsinki University of Technology,
+  Department of Communications and Networking}, 2008.
+
+\bibitem{spyropoulos2005spray}
+Thrasyvoulos Spyropoulos, Konstantinos Psounis, and Cauligi~S Raghavendra.
+\newblock Spray and wait: an efficient routing scheme for intermittently
+  connected mobile networks.
+\newblock In {\em Proceedings of the 2005 ACM SIGCOMM workshop on
+  Delay-tolerant networking}, pages 252--259. ACM, 2005.
+
+\end{thebibliography}
