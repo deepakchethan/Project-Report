@@ -479,13 +479,7 @@ The following section, provides a brief about how the labeling is done.
 
 \begin {enumerate}
     \item Messages in the \emph{delivered} category of message dataset were considered. The path feature contains the list of every node the message traveled in an ordered fashion till it reached the destination. Let\textquotesingle s say that two of the successive nodes in the path for the message  M were node n1 and n2 with key k. This indicates that message was forwarded from node n1 to node n2 in some event that was recorded in the event dataset. 
-	\item Using the successive pair of nodes from the message dataset, the event dataset should be labelled with the label “delivered(1)” or “not delivered(0)”. 
-	\begin {itemize}
-		\item current node = $n_1$ 
-        \item selected forwarder = $n_2$  
-        \item \text{message\_id} = $M$  
-        \item key = $k$ 
-	\end {itemize}
+	\item Using the successive pair of nodes from the message dataset, the event dataset should be labelled with the label \emph{delivered(1)} or \emph{not delivered(0)}. 
 	Let the pair of nodes be n1 and n2 in the path list of the message M. Let the event corresponding to such a transfer of message M from n1 and n2 contain key K. i.e, the current node and selected forwarder in the event dataset are n1 and n2 respectively with the key K. Such an event is labelled as \emph{delivered}. This process is repeated for all the messages in the message dataset which labels the corresponding events in the event dataset. The remaining events in the event dataset after exhausting all the messages are labelled as \emph{not delivered}. 
 \end{enumerate}
 Algorithm \ref{alg1} describes the pseudocode for labelling the dataset. The random forest classifier is trained with the event dataset obtained after applying algorithm 1 up to an higher degree of accuracy without overfitting or underfitting.

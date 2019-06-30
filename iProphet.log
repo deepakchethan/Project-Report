@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.2.23)  30 JUN 2019 07:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.2.23)  30 JUN 2019 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,195 +832,193 @@ Underfull \hbox (badness 10000) in paragraph at lines 437--438
  []
 
 [4]
-<random_forest.png, id=26, 369.0588pt x 277.035pt>
+<random_forest.png, id=26, 1013.7875pt x 833.1125pt>
 File: random_forest.png Graphic file (type png)
 <use random_forest.png>
-Package pdftex.def Info: random_forest.png  used on input line 499.
-(pdftex.def)             Requested size: 256.09247pt x 227.62247pt.
+Package pdftex.def Info: random_forest.png  used on input line 493.
+(pdftex.def)             Requested size: 256.06053pt x 227.61296pt.
 
-Overfull \hbox (4.09247pt too wide) in paragraph at lines 499--499
+Overfull \hbox (4.06053pt too wide) in paragraph at lines 493--493
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 534.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 528.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 
-LaTeX Warning: Command \l invalid in math mode on input line 582.
+LaTeX Warning: Command \l invalid in math mode on input line 576.
 
 Missing character: There is no ª in font cmr10!
 
-LaTeX Warning: Command \l invalid in math mode on input line 582.
+LaTeX Warning: Command \l invalid in math mode on input line 576.
 
 Missing character: There is no ª in font cmr10!
 
-LaTeX Warning: Reference `issues' on page 5 undefined on input line 588.
+LaTeX Warning: Reference `issues' on page 5 undefined on input line 582.
 
 [5 <./random_forest.png>]
-<del_prob_vs_ttl.png, id=32, 415.5525pt x 249.18094pt>
+<del_prob_vs_ttl.png, id=30, 559.08875pt x 337.26pt>
 File: del_prob_vs_ttl.png Graphic file (type png)
 <use del_prob_vs_ttl.png>
-Package pdftex.def Info: del_prob_vs_ttl.png  used on input line 633.
-(pdftex.def)             Requested size: 256.08638pt x 227.62949pt.
+Package pdftex.def Info: del_prob_vs_ttl.png  used on input line 627.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.08638pt too wide) in paragraph at lines 633--633
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 627--627
  [][] 
  []
 
 
 Underfull \vbox (badness 8000) has occurred while \output is active []
 
-<del_prob_vs_num_of_nodes.png, id=33, 414.79968pt x 249.93375pt>
+<del_prob_vs_num_of_nodes.png, id=31, 559.08875pt x 337.26pt>
 File: del_prob_vs_num_of_nodes.png Graphic file (type png)
 <use del_prob_vs_num_of_nodes.png>
-Package pdftex.def Info: del_prob_vs_num_of_nodes.png  used on input line 640.
-(pdftex.def)             Requested size: 256.0845pt x 227.63075pt.
+Package pdftex.def Info: del_prob_vs_num_of_nodes.png  used on input line 634.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.0845pt too wide) in paragraph at lines 640--640
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 634--634
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./del_prob_vs_ttl.png (PNG copy)>]
-<del_prob_vs_msg_gen_inter.png, id=38, 412.54124pt x 247.67531pt>
+ [6 <./del_prob_vs_ttl.png>]
+<del_prob_vs_msg_gen_inter.png, id=36, 559.08875pt x 337.26pt>
 File: del_prob_vs_msg_gen_inter.png Graphic file (type png)
 <use del_prob_vs_msg_gen_inter.png>
-Package pdftex.def Info: del_prob_vs_msg_gen_inter.png  used on input line 647.
+Package pdftex.def Info: del_prob_vs_msg_gen_inter.png  used on input line 641.
 
-(pdftex.def)             Requested size: 256.07507pt x 227.62218pt.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.07507pt too wide) in paragraph at lines 647--647
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 641--641
  [][] 
  []
 
-<hop_count_vs_ttl.png, id=39, 411.78844pt x 248.42813pt>
+<hop_count_vs_ttl.png, id=37, 559.08875pt x 337.26pt>
 File: hop_count_vs_ttl.png Graphic file (type png)
 <use hop_count_vs_ttl.png>
-Package pdftex.def Info: hop_count_vs_ttl.png  used on input line 659.
-(pdftex.def)             Requested size: 256.07275pt x 227.62413pt.
+Package pdftex.def Info: hop_count_vs_ttl.png  used on input line 653.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.07275pt too wide) in paragraph at lines 659--659
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 653--653
  [][] 
  []
 
-<hop_count_vs_num_of_nodes.png, id=40, 414.79968pt x 249.93375pt>
+<hop_count_vs_num_of_nodes.png, id=38, 559.08875pt x 337.26pt>
 File: hop_count_vs_num_of_nodes.png Graphic file (type png)
 <use hop_count_vs_num_of_nodes.png>
-Package pdftex.def Info: hop_count_vs_num_of_nodes.png  used on input line 666.
+Package pdftex.def Info: hop_count_vs_num_of_nodes.png  used on input line 660.
 
-(pdftex.def)             Requested size: 256.0845pt x 227.63075pt.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.0845pt too wide) in paragraph at lines 666--666
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 660--660
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <./del_prob_vs_num_of_nodes.png (PNG copy)> <./del_prob_vs_msg_gen_inter.pn
-g (PNG copy)> <./hop_count_vs_ttl.png (PNG copy)>]
-<hop_count_vs_msg_gen_interval.png, id=45, 412.54124pt x 251.43938pt>
+ [7 <./del_prob_vs_num_of_nodes.png> <./del_prob_vs_msg_gen_inter.png> <./hop_c
+ount_vs_ttl.png>]
+<hop_count_vs_msg_gen_interval.png, id=43, 559.08875pt x 337.26pt>
 File: hop_count_vs_msg_gen_interval.png Graphic file (type png)
 <use hop_count_vs_msg_gen_interval.png>
 Package pdftex.def Info: hop_count_vs_msg_gen_interval.png  used on input line 
-673.
-(pdftex.def)             Requested size: 256.07507pt x 227.62082pt.
+667.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.07507pt too wide) in paragraph at lines 673--673
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 667--667
  [][] 
  []
 
-<avg_lat_vs_num_of_nodes.png, id=46, 411.78844pt x 249.93375pt>
+<avg_lat_vs_num_of_nodes.png, id=44, 559.08875pt x 337.26pt>
 File: avg_lat_vs_num_of_nodes.png Graphic file (type png)
 <use avg_lat_vs_num_of_nodes.png>
-Package pdftex.def Info: avg_lat_vs_num_of_nodes.png  used on input line 683.
-(pdftex.def)             Requested size: 256.07275pt x 227.63075pt.
+Package pdftex.def Info: avg_lat_vs_num_of_nodes.png  used on input line 677.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.07275pt too wide) in paragraph at lines 683--683
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 677--677
  [][] 
  []
 
-<avg_lat_vs_ttl_n.png, id=47, 415.5525pt x 248.42813pt>
+<avg_lat_vs_ttl_n.png, id=45, 559.08875pt x 337.26pt>
 File: avg_lat_vs_ttl_n.png Graphic file (type png)
 <use avg_lat_vs_ttl_n.png>
-Package pdftex.def Info: avg_lat_vs_ttl_n.png  used on input line 690.
-(pdftex.def)             Requested size: 256.08638pt x 227.62413pt.
+Package pdftex.def Info: avg_lat_vs_ttl_n.png  used on input line 684.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.08638pt too wide) in paragraph at lines 690--690
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 684--684
  [][] 
  []
 
-<avg_lat_vs_msg_gen_inter_n.png, id=48, 415.5525pt x 249.18094pt>
+<avg_lat_vs_msg_gen_inter_n.png, id=46, 559.08875pt x 337.26pt>
 File: avg_lat_vs_msg_gen_inter_n.png Graphic file (type png)
 <use avg_lat_vs_msg_gen_inter_n.png>
-Package pdftex.def Info: avg_lat_vs_msg_gen_inter_n.png  used on input line 697
+Package pdftex.def Info: avg_lat_vs_msg_gen_inter_n.png  used on input line 691
 .
-(pdftex.def)             Requested size: 256.08638pt x 227.62949pt.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.08638pt too wide) in paragraph at lines 697--697
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 691--691
  [][] 
  []
 
 
 Underfull \vbox (badness 2401) has occurred while \output is active []
 
- [8 <./hop_count_vs_num_of_nodes.png (PNG copy)> <./hop_count_vs_msg_gen_interv
-al.png (PNG copy)> <./avg_lat_vs_num_of_nodes.png (PNG copy)> <./avg_lat_vs_ttl
-_n.png (PNG copy)>]
-<oh_ratio_vs_msg_gen_inter.png, id=52, 416.30531pt x 253.69781pt>
+ [8 <./hop_count_vs_num_of_nodes.png> <./hop_count_vs_msg_gen_interval.png> <./
+avg_lat_vs_num_of_nodes.png> <./avg_lat_vs_ttl_n.png>]
+<oh_ratio_vs_msg_gen_inter.png, id=50, 559.08875pt x 337.26pt>
 File: oh_ratio_vs_msg_gen_inter.png Graphic file (type png)
 <use oh_ratio_vs_msg_gen_inter.png>
-Package pdftex.def Info: oh_ratio_vs_msg_gen_inter.png  used on input line 713.
+Package pdftex.def Info: oh_ratio_vs_msg_gen_inter.png  used on input line 707.
 
-(pdftex.def)             Requested size: 256.0866pt x 227.62912pt.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.0866pt too wide) in paragraph at lines 713--713
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 707--707
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<avg_buff_time_vs_num_of_nodes.png, id=53, 411.78844pt x 248.42813pt>
+<avg_buff_time_vs_num_of_nodes.png, id=51, 559.08875pt x 337.26pt>
 File: avg_buff_time_vs_num_of_nodes.png Graphic file (type png)
 <use avg_buff_time_vs_num_of_nodes.png>
 Package pdftex.def Info: avg_buff_time_vs_num_of_nodes.png  used on input line 
-727.
-(pdftex.def)             Requested size: 256.07275pt x 227.62413pt.
+721.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.07275pt too wide) in paragraph at lines 727--727
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 721--721
  [][] 
  []
 
-<buf_time_vs_ttl.png, id=54, 416.30531pt x 249.93375pt>
+<buf_time_vs_ttl.png, id=52, 559.08875pt x 337.26pt>
 File: buf_time_vs_ttl.png Graphic file (type png)
 <use buf_time_vs_ttl.png>
-Package pdftex.def Info: buf_time_vs_ttl.png  used on input line 734.
-(pdftex.def)             Requested size: 256.0866pt x 227.63075pt.
+Package pdftex.def Info: buf_time_vs_ttl.png  used on input line 728.
+(pdftex.def)             Requested size: 256.08344pt x 227.62523pt.
 
-Overfull \hbox (4.0866pt too wide) in paragraph at lines 734--734
+Overfull \hbox (4.08344pt too wide) in paragraph at lines 728--728
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./avg_lat_vs_msg_gen_inter_n.png (PNG copy)> <./oh_ratio_vs_msg_gen_inter.
-png (PNG copy)> <./avg_buff_time_vs_num_of_nodes.png (PNG copy)>] (./iProphet.b
-bl
+ [9 <./avg_lat_vs_msg_gen_inter_n.png> <./oh_ratio_vs_msg_gen_inter.png> <./avg
+_buff_time_vs_num_of_nodes.png>] (./iProphet.bbl
 Underfull \hbox (badness 3128) in paragraph at lines 86--91
 []\T1/ptm/m/n/8 Thrasyvoulos Spy-ropou-los, Kon-stanti-nos Psou-nis, and Caulig
 i S
  []
 
-) [10 <./buf_time_vs_ttl.png (PNG copy)>] [11] (./iProphet.aux)
+) [10 <./buf_time_vs_ttl.png>] [11] (./iProphet.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1043,10 +1041,10 @@ ublic/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/urw/courier/ucrr
 8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texm
 f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on iProphet.pdf (11 pages, 644763 bytes).
+Output written on iProphet.pdf (11 pages, 574009 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

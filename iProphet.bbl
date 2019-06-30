@@ -11,19 +11,19 @@ NN~Srinidhi, SM~Dilip Kumar, and KR~Venugopal.
 \newblock {\em Engineering Science and Technology, an International Journal},
   2018.
 
-\bibitem{iot2013}
-B.~Guo, D.~Zhang, Z.~Wang, and X.~Zhou Z.~Yu.
-\newblock Opportunistic iot: Exploring the harmonious interaction between human
-  and the internet of things.
-\newblock {\em Journal of Network and Computer Applications}, pages 1531--1539,
-  2013.
-
 \bibitem{2006opnet}
 L.~Pelusi, A.~Passarella, and M.~Conti.
 \newblock Opportunistic networking: data forwarding in disconnected mobile ad
   hoc networks.
 \newblock {\em IEEE Communications Magazine, vol. 44, Issue 11}, pages
   134--141, Nov. 2006.
+
+\bibitem{iot2013}
+B.~Guo, D.~Zhang, Z.~Wang, and X.~Zhou Z.~Yu.
+\newblock Opportunistic iot: Exploring the harmonious interaction between human
+  and the internet of things.
+\newblock {\em Journal of Network and Computer Applications}, pages 1531--1539,
+  2013.
 
 \bibitem{2000epi}
 A.Vahdat and D.Becker.
